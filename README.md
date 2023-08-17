@@ -2,4 +2,9 @@
 
 - Natural Language Expressed Judgement Prediction.
 
-- nltk, re, stopwords, XGGClassifier, Cosine_Similarity
+### Packages :
+- nltk
+- regex
+- stopwords
+- XGGClassifier
+- Cosine_Similarity(sklearn.pairwise linear_kernel)
