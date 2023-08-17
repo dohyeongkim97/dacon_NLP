@@ -9,4 +9,4 @@
 - XGGClassifier
 - Cosine_Similarity(sklearn.pairwise linear_kernel)
 
-### Bert Model Codes will be added later.
+### The Bert Model Codes will be added later.
